@@ -24,11 +24,13 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 # Project report Template
 
-## Title: [your title goes here]
+## Title: PactScout
 
 ## Overview
 
-[your overview goes here. My project does this that  etc]
+A web app that lets you upload contracts (PDFs or Word files), automatically pulls out and standardizes all the clauses, and then highlights any legal or business risks — things like indemnity, termination, IP, confidentiality, or penalty clauses. It rates how risky each clause is, explains in simple terms why it’s risky, and gives you practical fixes: suggested wording, alternatives, or negotiation talking points.
+
+Behind the scenes, it uses a RAG setup (your own document store + embeddings) so every explanation and suggestion is grounded in real examples. The whole process — from uploading the contract to extracting, analyzing, scoring, explaining, and finally presenting the results — is managed with LangGraph to keep the workflow reliable and modular.
 
 ## Reason for picking up this project
 
