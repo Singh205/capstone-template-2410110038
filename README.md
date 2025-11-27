@@ -41,11 +41,11 @@ I picked this AI contract analyzer project because it connects nicely with what 
 I plan to excecute these steps to complete my project.
 
 - Day 1: Foundation - Document Processing & Vector Store Setup
-Goal: Set up document ingestion, embedding, and semantic search capabilities.
+Goal: Set up document ingestion, embedding, and semantic search capabilities.[DONE]
 - Day 2: Structured Output & Risk Analysis with Pydantic
-Goal: Create structured output models and basic LLM-based risk analysis
+Goal: Create structured output models and basic LLM-based risk analysis.[DONE]
 - Day 3: RAG Integration & Tool Calling
-Goal: Combine vector search with LLM analysis and add tool calling for enhanced retrieval.
+Goal: Combine vector search with LLM analysis and add tool calling for enhanced retrieval.[DONE]
 - Day 4: LangGraph Workflow - Complete System
 Goal: Build the complete system using LangGraph with state management, nodes, and workflow.
 
