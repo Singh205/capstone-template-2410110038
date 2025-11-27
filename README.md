@@ -34,17 +34,20 @@ Behind the scenes, it uses a RAG setup (your own document store + embeddings) so
 
 ## Reason for picking up this project
 
-Expain how this project is aligned with this course content.
+I picked this AI contract analyzer project because it connects nicely with what we learned in MAT496. Contracts are long and honestly very boring to read, and earlier I didn’t really know how to properly pull out the important points. But after learning things like prompting, structured output, semantic search, RAG, and how to make flows in LangGraph, I felt like I can actually build something that reads the contract for me. With LangGraph I can make small steps like “read text”, “find key info”, “check risky clauses”, and then give a simple final answer. This project helps me revise almost everything from the course while also making something that I would actually use in real life.
 
 ## Plan
 
 I plan to excecute these steps to complete my project.
 
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
+- Day 1: Foundation - Document Processing & Vector Store Setup
+Goal: Set up document ingestion, embedding, and semantic search capabilities.
+- Day 2: Structured Output & Risk Analysis with Pydantic
+Goal: Create structured output models and basic LLM-based risk analysis
+- Day 3: RAG Integration & Tool Calling
+Goal: Combine vector search with LLM analysis and add tool calling for enhanced retrieval.
+Day 4: LangGraph Workflow - Complete System
+Goal: Build the complete system using LangGraph with state management, nodes, and workflow.
 
 ## Conclusion:
 
