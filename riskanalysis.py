@@ -116,7 +116,7 @@ if __name__ == "__main__":
     # Initialize analyzer
     analyzer = ContractAnalyzer()
     
-    print("Analyzing contract... (this may take 10-20 seconds)")
+    print("Analyzing contract... ")
     
     # Analyze contract
     analysis = analyzer.analyze_contract(contract_text)
@@ -129,4 +129,4 @@ if __name__ == "__main__":
     with open("test_contracts/analysis_result.json", "w") as f:
         json.dump(analysis.model_dump(), f, indent=2)
     
-    print("✓ Day 2 Complete! Analysis saved to analysis_result.json")
+    
