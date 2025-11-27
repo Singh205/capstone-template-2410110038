@@ -46,7 +46,7 @@ Goal: Set up document ingestion, embedding, and semantic search capabilities.
 Goal: Create structured output models and basic LLM-based risk analysis
 - Day 3: RAG Integration & Tool Calling
 Goal: Combine vector search with LLM analysis and add tool calling for enhanced retrieval.
-Day 4: LangGraph Workflow - Complete System
+- Day 4: LangGraph Workflow - Complete System
 Goal: Build the complete system using LangGraph with state management, nodes, and workflow.
 
 ## Conclusion:
