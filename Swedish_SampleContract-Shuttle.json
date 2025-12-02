@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "file_name": "SampleContract-Shuttle.pdf",
+    "pages": 10,
+    "timestamp": "2025-11-27T14:20:26.000657"
+  },
+  "risk_score": 45,
+  "analysis": {
+    "overall_risk_score": 45,
+    "summary": "The contract presents several areas of concern, particularly regarding payment terms, personnel management, and indemnification clauses. While it outlines clear responsibilities and expectations, there are potential loopholes and risks that could impact the CONSULTANT's operations and financial stability.",
+    "loopholes": [
+      {
+        "clause_reference": "Section 2, Compensation, Paragraph A",
+        "loophole_description": "The total payment cap is left blank, which could lead to disputes over payment limits and expectations.",
+        "severity": "High",
+        "exploitation_scenario": "The COMMISSION could argue that the CONSULTANT is not entitled to any payment if the blank is interpreted as no payment being agreed upon."
+      },
+      {
+        "clause_reference": "Section 4, Early Termination, Paragraph A",
+        "loophole_description": "The COMMISSION can terminate the agreement for convenience with only 30 days' notice, which could leave the CONSULTANT with little time to adjust or recover costs.",
+        "severity": "Medium",
+        "exploitation_scenario": "The COMMISSION could terminate the contract unexpectedly, leaving the CONSULTANT with unrecoverable costs."
+      },
+      {
+        "clause_reference": "Section 5, Indemnification for Damages, Taxes and Contributions",
+        "loophole_description": "The indemnification clause places significant liability on the CONSULTANT for any claims, which could lead to financial exposure.",
+        "severity": "High",
+        "exploitation_scenario": "The COMMISSION could pursue claims against the CONSULTANT for any issues arising from the CONSULTANT's work, leading to substantial financial liability."
+      },
+      {
+        "clause_reference": "Section 20, Subcontracting, Paragraph A",
+        "loophole_description": "The requirement for prior written authorization for subcontracting could limit the CONSULTANT's ability to manage resources effectively.",
+        "severity": "Medium",
+        "exploitation_scenario": "The COMMISSION could deny subcontracting requests, leading to delays and increased costs for the CONSULTANT."
+      }
+    ],
+    "risks": [
+      {
+        "risk_type": "Financial Risk",
+        "description": "Potential for payment disputes due to unclear total payment cap and reimbursement terms.",
+        "severity_score": 7,
+        "affected_party": "CONSULTANT",
+        "mitigation": "Clarify total payment cap and reimbursement terms in the contract."
+      },
+      {
+        "risk_type": "Operational Risk",
+        "description": "Risk of contract termination with short notice, impacting project continuity.",
+        "severity_score": 6,
+        "affected_party": "CONSULTANT",
+        "mitigation": "Negotiate longer notice periods for termination for convenience."
+      },
+      {
+        "risk_type": "Liability Risk",
+        "description": "High liability exposure due to broad indemnification clauses.",
+        "severity_score": 8,
+        "affected_party": "CONSULTANT",
+        "mitigation": "Limit indemnification to direct damages caused by negligence or misconduct."
+      },
+      {
+        "risk_type": "Resource Management Risk",
+        "description": "Restrictions on subcontracting could hinder project execution and resource allocation.",
+        "severity_score": 5,
+        "affected_party": "CONSULTANT",
+        "mitigation": "Negotiate more flexible subcontracting terms."
+      }
+    ],
+    "red_flags": [
+      "Blank total payment cap in Section 2, Compensation.",
+      "Short notice period for termination for convenience in Section 4.",
+      "Broad indemnification clause in Section 5 that could expose CONSULTANT to significant liability.",
+      "Strict subcontracting requirements in Section 20 that limit operational flexibility."
+    ],
+    "recommendations": [
+      "Negotiate to fill in the total payment cap to avoid ambiguity.",
+      "Extend the notice period for termination for convenience to 60 days.",
+      "Limit indemnification to claims arising from CONSULTANT's negligence only.",
+      "Allow for more flexible subcontracting terms to enable better resource management."
+    ]
+  }
+}
