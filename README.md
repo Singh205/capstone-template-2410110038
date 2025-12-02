@@ -53,6 +53,7 @@ Goal: Build the complete system using LangGraph with state management, nodes, an
 
 I had planned to achieve analysing a contract and let the LLM tell me what are the loopholes and risky clauses in a contract. I think I have achieved the conclusion satisfactorily. I can take any pdf or txt format contract and it will analyse it to tell me all about it, i feel like this can be really useful in a real world application so i feel quite satisfied with the end result of my capstone project for MAT496.
 
+Link for project video:https://youtu.be/TgbaLtHdy24?si=dUm29-aJmj-zvl3x
 ----------
 
 # Added instructions:
