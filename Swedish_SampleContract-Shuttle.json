@@ -4,9 +4,9 @@
     "pages": 10,
     "timestamp": "2025-11-27T14:20:26.000657"
   },
-  "risk_score": 45,
+  "risk_score": 65,
   "analysis": {
-    "overall_risk_score": 45,
+    "overall_risk_score": 65,
     "summary": "The contract presents several areas of concern, particularly regarding payment terms, personnel management, and indemnification clauses. While it outlines clear responsibilities and expectations, there are potential loopholes and risks that could impact the CONSULTANT's operations and financial stability.",
     "loopholes": [
       {
@@ -77,4 +77,5 @@
       "Allow for more flexible subcontracting terms to enable better resource management."
     ]
   }
+
 }
