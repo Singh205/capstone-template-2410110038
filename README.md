@@ -47,11 +47,11 @@ Goal: Create structured output models and basic LLM-based risk analysis.[DONE]
 - Day 3: RAG Integration & Tool Calling
 Goal: Combine vector search with LLM analysis and add tool calling for enhanced retrieval.[DONE]
 - Day 4: LangGraph Workflow - Complete System
-Goal: Build the complete system using LangGraph with state management, nodes, and workflow.
+Goal: Build the complete system using LangGraph with state management, nodes, and workflow.[DONE]
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
+I had planned to achieve analysing a contract and let the LLM tell me what are the loopholes and risky clauses in a contract. I think I have achieved the conclusion satisfactorily. I can take any pdf or txt format contract and it will analyse it to tell me all about it, i feel like this can be really useful in a real world application so i feel quite satisfied with the end result of my capstone project for MAT496.
 
 ----------
 
